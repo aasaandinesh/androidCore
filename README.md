@@ -1,2 +1,2 @@
 # androidCore
-Core functionality of android
+testing e functionality of android
