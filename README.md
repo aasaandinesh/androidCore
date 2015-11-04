@@ -1,2 +1,2 @@
 # androidCore
-esting e functionality of android
+eTwesting e functionality of android
